@@ -8,22 +8,14 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 
-class DeskActivity : AppCompatActivity() {
+class MysteryEnding : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
-        setContentView(R.layout.activity_desk)
-
-        val option1: Button = findViewById(R.id.option1)
-        option1.setOnClickListener {
-            val intent = Intent(this, TieifiedEnding::class.java)
-            this.startActivity(intent)
-            finish()
-        }
-
-        val option2: Button = findViewById(R.id.option2)
-        option2.setOnClickListener {
-            val intent = Intent(this, FireEscapeActivity::class.java)
+        setContentView(R.layout.activity_mystery_ending)
+        val restart: Button = findViewById(R.id.restart)
+        restart.setOnClickListener {
+            val intent = Intent(this, MainActivity::class.java)
             this.startActivity(intent)
             finish()
         }

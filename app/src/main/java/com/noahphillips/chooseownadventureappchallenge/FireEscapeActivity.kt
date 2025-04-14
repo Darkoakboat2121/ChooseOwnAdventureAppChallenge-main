@@ -22,7 +22,7 @@ class FireEscapeActivity : AppCompatActivity() {
 
         val option2: Button = findViewById(R.id.option2)
         option2.setOnClickListener {
-            val intent = Intent(this, HideLegendActivity::class.java)
+            val intent = Intent(this, MysteryEnding::class.java)
             this.startActivity(intent)
             finish()
         }

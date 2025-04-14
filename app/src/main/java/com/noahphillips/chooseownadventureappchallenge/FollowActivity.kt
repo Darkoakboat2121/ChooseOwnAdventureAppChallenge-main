@@ -8,22 +8,21 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 
-class DeskActivity : AppCompatActivity() {
+class FollowActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
-        setContentView(R.layout.activity_desk)
-
+        setContentView(R.layout.activity_follow)
         val option1: Button = findViewById(R.id.option1)
         option1.setOnClickListener {
-            val intent = Intent(this, TieifiedEnding::class.java)
+            val intent = Intent(this, EvilEnding::class.java)
             this.startActivity(intent)
             finish()
         }
 
         val option2: Button = findViewById(R.id.option2)
         option2.setOnClickListener {
-            val intent = Intent(this, FireEscapeActivity::class.java)
+            val intent = Intent(this, GoodEnding::class.java)
             this.startActivity(intent)
             finish()
         }

@@ -19,8 +19,10 @@
     <string name="dreamLoopEnding">You accept this awful ending… \n\nYou wake up in your bed, alarm ringing. "That was an awful dream". You get up ready to go to tech; already forgetting the dream. You arrive at tech, ready to start an app challenge…</string>
     <string name="tpOutEnding">You attempt to escape! In your frantic escape, you trip on a wire. The evil robot on your heels, you get back up and keep running, but it\'s to late. You\'ve been engulfed by a blue light and find yourself outside tech, on top a familiar shelf</string>
     <string name="legendaryEscapeEnding">You successfully sneak out of tech by a little known door near the back. You look around and find no-one; probably because this entrance isn\'t really used often. You go home and watch the news about the invasion, \"Heh lousy invasion\" you think to yourself</string>
-    <string name="evilEnding"></string>
-    <string name="goodEnding"></string>
+    <string name="evilEnding">You decide to reprogram the robot to steal ties all for yourself; you embrace evil.\n\nYears later, you\'re the only person on the planet that has ties… Any and every variation of a tie you now own</string>
+    <string name="goodEnding">You decide to shutdown the robot forever and walk out of tech a hero. You don\'t know why that happened, nor why it was hunting you, but you escaped and saved the other students</string>
     <string name="yoinkEnding">You find the door locked and the robot is already behind you. You plead with the robot, \"Noooo! Please!\". It says in a robotic voice, \"GIVE ME YOUR TIES\". Unfortunately you don\'t have any ties. In the desperation of the moment, you steal one of the ties adorned around the robots neck and offer it, but alas it\'s too late. You\'re encased in a blue aura of light… You find yourself outside of tech, with a tie. At least you have a tie</string>
+    <string name="mysteryEnding">You run to the main entrance and meet locked doors. The robot is right behind you though so you start running again, and the robot doesn\'t like it. The Mr. Mason lookalike begins firing with two different lasers, red and blue. As you run you trip over your own feet and get hit with both colors of laser. It\'s a mystery what happened to you</string>
+    <string name="tieifiedEnding">You continue hiding; hoping you misunderstood what was happening. You slowly open your eyes to see an evi… You got turned into a tie</string>
 
 </resources>

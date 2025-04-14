@@ -22,7 +22,7 @@ class HideLegendActivity : AppCompatActivity() {
 
         val option2: Button = findViewById(R.id.option2)
         option2.setOnClickListener {
-            val intent = Intent(this, RunAcrossActivity::class.java)
+            val intent = Intent(this, FollowActivity::class.java)
             this.startActivity(intent)
             finish()
         }
