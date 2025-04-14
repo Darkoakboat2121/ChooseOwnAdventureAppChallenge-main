@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ChooseOwnAdventureAppChallenge</string>
+    <string name="story">You arrive at tech today, ready to start on an app challenge. But today is different somehow, it seems unusually empty at tech today; hardly any people here.\nYou walk upstairs to your classroom and there\'s no-one in the halls… \"How odd\" you say. Once you enter the classroom, the power flickers, frightening other students from across the hall. The bell sounds its imprudent ringing. \"There\'s no-one here…\"</string>
+    <string name="start">Start</string>
+    <string name="story2">You go to the door and look around. Then you notice there\'s not a single person here… \"If there\'s no-one here, how did I hear other people?\". Then you hear a noise, a pertinacious clanking coming from the end of the hall. Do you:</string>
+
+    <string name="storyDesk">You hide under a desk, hoping the clanking creature did\'nt notice you. Unfortunately it noticed you… You can hear it getting closer, each metallic step increasing your anxiety. Do you:</string>
+
+    <string name="fireEscapeStory">You run as quickly as you can. As you\'re going through the door, you look back and see the creature. It\'s a robotic evil Mr. Mason?!?! There\'s no time to question why though, so you continue down the stairwell. Do you:</string>
+
+    <string name="runAcrossStory">You run across the hall into the neighboring classroom, hoping there would be other students. Sadly there was only you and an empty classroom; devoid of people. You search for anything of use. You find a heavy shelf you could use to block the entrance and the best hiding spot you\'ve ever seen. You think to yourself \"How did I even notice this?\". Do you:</string>
+
+    <string name="storyShelf">You block the door with the shelf. The metal creature is right outside, it starts banging on the heavy shelf unable to get in. You peek through the windows for a split-second. You see an evil robot Mr. Mason?!?! He sees you. A somewhat loud whirling noise begins. The shelf is engulfed in a blue light and vanishes before your eyes. Do you:</string>
+
+    <string name="hideLegendStory">You hide in the legendary spot. It\'s the most inconspicuous box you\'ve ever seen! You see through the small cutout of the box, an evil robot Mr. Mason?!?! The robot looks around; confused as to how you disappeared. It turns around; heading away as it says \"LOW POWER. NEED TO CHARGE. NEED MORE TIES\". \"Ties?\" you think. Do you:</string>
+
+    <string name="followStory">You decide to follow the robot while hiding in the box. Every so often, evil robot Mr. Mason looks around and notices the box but pays it no circuitry. It continues on until it goes into a dark room, hidden away from the rest of tech while it charges. It steps on its charging pad and quickly starts gaining power. You sneakily unplug the charging pad, next do you:</string>
+
+    <string name="dreamLoopEnding">You accept this awful ending… \n\nYou wake up in your bed, alarm ringing. "That was an awful dream". You get up ready to go to tech; already forgetting the dream. You arrive at tech, ready to start an app challenge…</string>
+    <string name="tpOutEnding">You attempt to escape! In your frantic escape, you trip on a wire. The evil robot on your heels, you get back up and keep running, but it\'s to late. You\'ve been engulfed by a blue light and find yourself outside tech, on top a familiar shelf</string>
+    <string name="legendaryEscapeEnding">You successfully sneak out of tech by a little known door near the back. You look around and find no-one; probably because this entrance isn\'t really used often. You go home and watch the news about the invasion, \"Heh lousy invasion\" you think to yourself</string>
+    <string name="evilEnding"></string>
+    <string name="goodEnding"></string>
+    <string name="yoinkEnding">You find the door locked and the robot is already behind you. You plead with the robot, \"Noooo! Please!\". It says in a robotic voice, \"GIVE ME YOUR TIES\". Unfortunately you don\'t have any ties. In the desperation of the moment, you steal one of the ties adorned around the robots neck and offer it, but alas it\'s too late. You\'re encased in a blue aura of light… You find yourself outside of tech, with a tie. At least you have a tie</string>
+
+</resources>
